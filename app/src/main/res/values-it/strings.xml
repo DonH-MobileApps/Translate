@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Translate</string>
+    <string name="good_morning">Buongiorno</string>
+    <string name="hello">Ciao</string>
+    <string name="television">" televisione"</string>
+    <string name="hamburger">" Hamburger"</string>
+    <string name="basketball">pallacanestro</string>
+</resources>
